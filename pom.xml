@@ -52,7 +52,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-java-app</finalName>
+		<finalName>springboot-java-vaadin-app</finalName>
 	</build>
 
 	<profiles>
