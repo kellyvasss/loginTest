@@ -10,7 +10,7 @@ public class Test extends VerticalLayout {
 
     public Test() {
         add(
-                new H1("HEJ")
+                new H1("HEJsAN")
         );
     }
 }
